@@ -1,6 +1,6 @@
 # Geek Out
 
-Tinder (to make friends) for Geeks. Written in SwiftUI.
+Tinder (to make friends) for Geeks. Made for fun to explore SwiftUI.
 
 ### Demo
 ![](demo/demo.gif)
